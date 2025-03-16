@@ -1,6 +1,4 @@
-A useless and pointless version of tetris bound to make you lose your sanity. This game challenges your perspective on how you play games as well as dealing with the consequences in a brutal way. 
-
-Tetris Champ
+**Tetris Champ**
 
 We’re in a world where playing useless and pointless games is the real deal and thus, the game “Tetris Champ” was born. 
 
@@ -16,5 +14,6 @@ Tape
 Replit (to code on)
 Brain
 
-Special mentions
+**Special mentions**
+
 Special mention to IBM as well as Scrapyard that made this dream come true.
